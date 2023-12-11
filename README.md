@@ -11,7 +11,7 @@ Extract kafka from the zip file by running the command below.
 </pre>
 Change to the kafka_2.12-3.5.1 directory.
 <pre>
-  Change to the kafka_2.12-3.5.1 directory.
+  cd kafka_2.12-3.5.1
 </pre>
 ZooKeeper is required for Kafka to work. Start the ZooKeeper server.
 <pre>
